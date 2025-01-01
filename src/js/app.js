@@ -1,5 +1,5 @@
 // TODO: write your code here
-import Character from './Character';
+import Character from './characters/Character';
 import sum from './basic';
 
 console.log('worked');
